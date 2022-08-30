@@ -1,5 +1,5 @@
 # MintSelf
-NFT-Me is a smart contract and companion web app that allows users to capture images from their webcam and mint them as NFTs. 
+MintSelf is a smart contract and companion web app that allows users to capture images from their webcam and mint them as NFTs. 
 
 Included is source code for a smart contract defining an 'NFT-Me' ERC-721 token, and a React app frontend which interacts with the contract. The app provides an interface for connecting a Metamask wallet, capturing webcam images, and selecting which network to mint to.
 
