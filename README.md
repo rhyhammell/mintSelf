@@ -1,4 +1,4 @@
-# NFT-Me
+# MintSelf
 NFT-Me is a smart contract and companion web app that allows users to capture images from their webcam and mint them as NFTs. 
 
 Included is source code for a smart contract defining an 'NFT-Me' ERC-721 token, and a React app frontend which interacts with the contract. The app provides an interface for connecting a Metamask wallet, capturing webcam images, and selecting which network to mint to.
@@ -8,10 +8,10 @@ Node.js is required to run this application. Begin by cloning this repository an
 
 ```bash
 # Clone this repository
-git clone https://github.com/rhammell/nft-me.git
+git clone https://github.com/rhyhammell/mintSelf.git
 
 # Navigate into the repository
-cd nft-me
+cd mintSelf
 
 # Install required node packages
 npm install
