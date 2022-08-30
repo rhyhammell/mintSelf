@@ -76,11 +76,6 @@ node scripts/copyContractInfo.js
 
 When first navigating to the app, users will be prompted by their browser to grant the app access to their computer's webcam. Once permission is granted, a live feed of the webcam is shown. 
 
-<div align="center">
-  <img align="center" src="img/interface_1.png" width="600">
-  <p>NFT-Me Interface<p>
-</div>
-
 Mint an NFT with the following steps:
 
 1. **Connect Wallet** - Click 'Connet Wallet' to connect your MetaMask wallet accounts to the application and sign an authenication transaction.
